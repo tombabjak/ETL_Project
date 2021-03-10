@@ -1,0 +1,16 @@
+-- CREATE TABLE SES_2000 (
+-- 	country VARCHAR(50) NOT NULL,
+-- 	wbid VARCHAR(5) NOT NULL,
+-- 	SES_2000 VARCHAR(50) NOT NULL,	
+-- 	gdppc_2000 VARCHAR(50) NOT NULL,	
+-- 	popshare_2000 VARCHAR(50) NOT NULL,
+-- 	PRIMARY KEY(country)
+-- 	);
+-- CREATE TABLE SES_2010 (
+-- 	country VARCHAR(50) NOT NULL,
+-- 	wbid VARCHAR(5) NOT NULL,
+-- 	SES_2010 VARCHAR(50) NOT NULL,	
+-- 	gdppc_2010 VARCHAR(50) NOT NULL,	
+-- 	popshare_2010 VARCHAR(50) NOT NULL,
+-- 	PRIMARY KEY(country)
+-- 	);
